@@ -1,2 +1,1 @@
-# Configuration
-Application configuration
+# Application configuration
